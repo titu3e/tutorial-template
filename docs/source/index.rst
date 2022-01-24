@@ -35,7 +35,7 @@ Example: /setfloodmode tmute 15m
 **Don't want some Zhongli commands enabled in group?**
 /listcmds and then use /disable namehere
 /listmodules and /disablemodule namehere
-Note: if this conflicts with any other bot in group then use /disable@SaitamaRobot to send that message only to Saitama.
+Note: if this conflicts with any other bot in group then use /disable to send that message only to Saitama.
 
 **Want to auto warn users when they say specific stuff?**
 See warns > /addwarn command help
